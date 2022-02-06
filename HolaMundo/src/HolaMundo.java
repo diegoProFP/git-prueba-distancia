@@ -7,6 +7,7 @@ public class HolaMundo {
 		System.out.println("Hola mundo! Cambio desde Eclipse");
 		System.out.println("Hola mundo! 2 - Cambio desde Consola");
 		System.out.println("Hola mundo! 2 - Cambio desde Eclipse");
+		System.out.println("Hola mundo! 3 - Cambio desde Eclipse");
 	}
 
 }
